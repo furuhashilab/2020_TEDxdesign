@@ -1,6 +1,6 @@
 # 2020_TEDxdesign
 ## Goal
-TEDxAoyamaGakuinUの会場設計案作成
+TEDxAoyamaGakuinUの会場設計
 
 ## member 
 ものづくり部 × 空間デザイン部
