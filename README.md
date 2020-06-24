@@ -1,5 +1,5 @@
 # 2020_TEDxdesign
-##Goal
+## Goal
 TEDxAoyamaGakuinUの会場設計案作成
 
 ## member 
@@ -12,5 +12,5 @@ TEDxAoyamaGakuinUの会場設計案作成
  * Haru MIzutani
  * Ayaka Kawashima
  
- ##Project
- *2020/6/２３〜　オンラインハッカソン　TEDxAGUの会場3Dデザイン プロトタイプ作成 on Styly
+ ## Project
+ * 2020/6/２３〜　オンラインハッカソン　TEDxAGUの会場3Dデザイン プロトタイプ作成 on Styly
