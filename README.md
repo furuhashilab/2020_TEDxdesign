@@ -2,7 +2,7 @@
 ## Goal
 TEDxAoyamaGakuinUの会場設計
 
-## member 
+## Member 
 ものづくり部 × 空間デザイン部
  * Yousuke Kanda
  * Tatsumi Baba
