@@ -13,4 +13,4 @@ TEDxAoyamaGakuinUの会場設計案作成
  * Ayaka Kawashima
  
  ## Project
- * 2020/6/２３〜　オンラインハッカソン　TEDxAGUの会場3Dデザイン プロトタイプ作成 on Styly
+ * 2020/6/23~　オンラインハッカソン　TEDxAGUの会場3Dデザイン プロトタイプ作成 on Styly
