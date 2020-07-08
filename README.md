@@ -5,6 +5,7 @@ TEDxAoyamaGakuinUの会場設計
 ## Member 
  
 TEDxメンバー
+ * Risa Otaki (Organizer)
  * Sachi Takahashi
  * Suzuka Yoshida
  * Yui Nakamura
@@ -12,6 +13,7 @@ TEDxメンバー
  * Yousuke kanda
  * Tatsumi Baba
  * Haru Mizutani
+ * Kazuna Fujimori
 
 ものづくり部 × 空間デザイン部
  * (Yousuke Kanda)
