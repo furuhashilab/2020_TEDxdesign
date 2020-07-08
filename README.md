@@ -3,6 +3,14 @@
 TEDxAoyamaGakuinUの会場設計
 
 ## Member 
+ 
+TEDxメンバー
+ * Sachi Takahashi
+ * Suzuka Yoshida
+ * Yui Nakamura
+ * Youko Yagi
+
+
 ものづくり部 × 空間デザイン部
  * Yousuke Kanda
  * Tatsumi Baba
