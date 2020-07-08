@@ -9,15 +9,17 @@ TEDxメンバー
  * Suzuka Yoshida
  * Yui Nakamura
  * Youko Yagi
-
+ * Yousuke kanda
+ * Tatsumi Baba
+ * Haru Mizutani
 
 ものづくり部 × 空間デザイン部
- * Yousuke Kanda
- * Tatsumi Baba
+ * (Yousuke Kanda)
+ * (Tatsumi Baba)
  * Atsuko Wakamatsu
  * Yuka Saito
  * Ren Aoki
- * Haru MIzutani
+ * (Haru MIzutani)
  * Ayaka Kawashima
  
  ## Project
