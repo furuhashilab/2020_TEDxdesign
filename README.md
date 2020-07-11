@@ -14,6 +14,7 @@ TEDxメンバー
  * Tatsumi Baba
  * Haru Mizutani
  * Kazuna Fujimori
+ * Oudai Hamano
 
 ものづくり部 × 空間デザイン部
  * (Yousuke Kanda)
