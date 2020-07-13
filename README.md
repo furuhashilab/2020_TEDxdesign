@@ -15,7 +15,6 @@ TEDxメンバー
  * Haru Mizutani
  * Kazuna Fujimori
  * Oudai Hamano
- * Yuka Saito
  * Saho Yoshihara
 
 ものづくり部 × 空間デザイン部
