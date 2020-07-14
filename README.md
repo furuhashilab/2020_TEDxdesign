@@ -17,6 +17,7 @@ TEDxメンバー
  * Oudai Hamano
  * Saho Yoshihara
  * Hikaru Sato
+ * Taisei Maeda
 
 ものづくり部 × 空間デザイン部
  * (Yousuke Kanda)
