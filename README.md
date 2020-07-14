@@ -16,6 +16,7 @@ TEDxメンバー
  * Kazuna Fujimori
  * Oudai Hamano
  * Saho Yoshihara
+ * Hikaru Sato
 
 ものづくり部 × 空間デザイン部
  * (Yousuke Kanda)
