@@ -28,6 +28,9 @@ TEDxメンバー
  * (Haru MIzutani)
  * Ayaka Kawashima
  
+外部協力者
+ * Raku Maruyama
+ 
  ## Project
  * 2020/6/23~30　オンラインハッカソン　TEDxAGUの会場3Dデザイン プロトタイプ作成 on Styly
  * 2020/7/21~28　オンラインハッカソン　会場設計案確定→３６０°カメラ＋styly 
